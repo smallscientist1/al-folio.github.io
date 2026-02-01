@@ -18,7 +18,7 @@ profile:
 news: false # includes a list of news items
 latest_posts: false # includes a list of latest blog posts
 education: false # TODO: true but a better style # includes education from _data/cv.yml
-selected_papers: false #TODOL true but better title # includes a list of papers marked as "selected={true}"
+selected_papers: true #TODOL true but better title # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
